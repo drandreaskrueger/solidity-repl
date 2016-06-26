@@ -36,6 +36,9 @@ Many, but all embedded now:
     > a - 1 + a + 1
     0
 
+### exit
+
+You exit solr with standard shell exit commands, either Ctrl + C or Ctrl + D. 
 
 ----
 created 24/6/2016 by Andreas Krueger ([my github](https://github.com/drandreaskrueger), [my twitter](https://twitter.com/drandreaskruger))
